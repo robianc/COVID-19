@@ -1,0 +1,30 @@
+# Lombardia
+
+Data source: https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-json/dpc-covid19-ita-regioni.json
+
+Delta days analysis (j): 8
+
+## Fitting 
+|fit type|best fit equation|tafe|tfe|ipeak|izero|
+|-------|-----|--------|------|---|---|
+|linear|y = 1.7700 -0.0957x  [TAFE=0.0573]|0.0573|0.0037|9|19|
+|exp|y = 1.8031 exp(-0.0695x)  [TAFE=0.0535]|0.0535|0.0017|9|n/a|
+|pow|y = 1.8382 x pow(-0.2503)  [TAFE=0.0398]|0.0398|0.0010|12|n/a|
+
+![Plot](COVID-19_lombardia_j8_2020-04-04.png)
+
+## Data
+|Date|Daily deaths|Cumulated deaths|Deaths in the last 8 days|Deaths in the 8 days before|ratio|
+|----|----------|-----------|-------|--------------------|-----|
+|2020-04-04|345|8656|3254|3234|1.0062|
+|2020-04-03|351|8311|3450|2902|1.1888|
+|2020-04-02|367|7960|3486|2834|1.2301|
+|2020-04-01|394|7593|3415|2758|1.2382|
+|2020-03-31|381|7199|3423|2558|1.3382|
+|2020-03-30|458|6818|3362|2490|1.3502|
+|2020-03-29|416|6360|3265|2205|1.4807|
+|2020-03-28|542|5944|3395|1805|1.8809|
+
+[Download data as CSV](COVID-19_lombardia_j8_2020-04-04.csv)
+
+Generated April 8th, 2020 at 23:43:36 UTC+0200 with https://github.com/robianc/COVID-19
