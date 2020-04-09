@@ -2,6 +2,7 @@
 
 |Date of estimate|Peak date best estimate|End date best estimate|
 |----|----|----|
+|[2020-04-09](2020-04-09/README.md)|[7/4/2020](2020-04-09/COVID-19_friuli_venezia_giulia_j7_2020-04-09.md)|[24/4/2020](2020-04-09/COVID-19_friuli_venezia_giulia_j12_2020-04-09.md)|
 |[2020-04-08](2020-04-08/README.md)|[15/4/2020](2020-04-08/COVID-19_friuli_venezia_giulia_j11_2020-04-08.md)|[28/4/2020](2020-04-08/COVID-19_friuli_venezia_giulia_j11_2020-04-08.md)|
 |[2020-04-07](2020-04-07/README.md)|[16/4/2020](2020-04-07/COVID-19_friuli_venezia_giulia_j11_2020-04-07.md)|[2/5/2020](2020-04-07/COVID-19_friuli_venezia_giulia_j11_2020-04-07.md)|
 |[2020-04-06](2020-04-06/README.md)|[13/4/2020](2020-04-06/COVID-19_friuli_venezia_giulia_j11_2020-04-06.md)|[26/4/2020](2020-04-06/COVID-19_friuli_venezia_giulia_j11_2020-04-06.md)|

@@ -61,4 +61,4 @@ Geographically, the analysis for Italy is made on regional basis, assuming that 
 
 ## Software
 
-The code for the analysis is written in Perl and is freely available on [Github](https://github.com/robianc/parse_COVID-19).
+The code for the analysis is written in Perl and is freely available on [Github](https://github.com/robianc/COVID-19).

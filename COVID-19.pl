@@ -16,7 +16,7 @@ use Math::GSL::Statistics qw(gsl_stats_correlation);
 use Chart::Gnuplot;
 use List::Util qw (max);
 
-my $update = 0; # 1 to update with latest data 
+my $update = 1; # 1 to update with latest data 
 my $country  = 'ITA'; # 3 letters ISO
 
 my %data_source = (
@@ -55,7 +55,7 @@ my %dates_to_skip = (
 my @start_date = (2020,3,25);
 
 # End date of analysis
-my @end_date = (2020,4,8);#Today($gmt); # Change, if desired
+my @end_date = (2020,4,9);#Today($gmt); # Change, if desired
 #
 # Set range of days to be included in averages
 my $dmin = 7;

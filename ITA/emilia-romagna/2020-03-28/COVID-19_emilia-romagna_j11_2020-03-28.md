@@ -28,4 +28,4 @@ Delta days analysis (j): 11
 
 [Download data as CSV](COVID-19_emilia-romagna_j11_2020-03-28.csv)
 
-Generated April 8th, 2020 at 23:43:36 UTC+0200 with https://github.com/robianc/COVID-19
+Generated April 9th, 2020 at 16:40:48 UTC+0200 with https://github.com/robianc/COVID-19

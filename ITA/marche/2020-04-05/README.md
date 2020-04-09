@@ -3,7 +3,7 @@
 
 Data source: https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-json/dpc-covid19-ita-regioni.json
 
-Estimates in this page were made on 8/4/2020 with data available until 05/04/2020.
+Estimates in this page were made on 9/4/2020 with data available until 05/04/2020.
 
 
 ## Summary 
@@ -48,4 +48,4 @@ Corresponding end date estimate is 12/4/2020 (izero 15)
 
 End date range estimate: 28/3/2020 - 19/4/2020
 
-Generated April 8th, 2020 at 23:43:36 UTC+0200 with https://github.com/robianc/COVID-19
+Generated April 9th, 2020 at 16:40:48 UTC+0200 with https://github.com/robianc/COVID-19
