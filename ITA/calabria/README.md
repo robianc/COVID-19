@@ -2,6 +2,7 @@
 
 |Date of estimate|Peak date best estimate|End date best estimate|
 |----|----|----|
+|[2020-04-10](2020-04-10/README.md)|[11/4/2020](2020-04-10/COVID-19_calabria_j9_2020-04-10.md)|[13/4/2020](2020-04-10/COVID-19_calabria_j9_2020-04-10.md)|
 |[2020-04-09](2020-04-09/README.md)|[10/4/2020](2020-04-09/COVID-19_calabria_j9_2020-04-09.md)|[12/4/2020](2020-04-09/COVID-19_calabria_j9_2020-04-09.md)|
 |[2020-04-08](2020-04-08/README.md)|[9/4/2020](2020-04-08/COVID-19_calabria_j8_2020-04-08.md)|[12/4/2020](2020-04-08/COVID-19_calabria_j8_2020-04-08.md)|
 |[2020-04-07](2020-04-07/README.md)|[8/4/2020](2020-04-07/COVID-19_calabria_j7_2020-04-07.md)|[12/4/2020](2020-04-07/COVID-19_calabria_j7_2020-04-07.md)|
