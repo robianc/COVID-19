@@ -25,4 +25,4 @@ Analyses for Puglia for previous dates are avalable [here](../../README.md)
 
 [Download data as CSV](COVID-19_puglia_j7_2020-04-03.csv)
 
-Generated April 10th, 2020 at 17:26:10 UTC+0200 with https://github.com/robianc/COVID-19
+Generated April 12th, 2020 at 16:28:18 UTC+0200 with https://github.com/robianc/COVID-19

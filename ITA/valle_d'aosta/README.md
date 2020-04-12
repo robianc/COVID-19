@@ -2,6 +2,8 @@
 
 |Date of estimate|Peak date best estimate|End date best estimate|
 |----|----|----|
+|[2020-04-12](2020-04-12/README.md)|[12/4/2020](2020-04-12/COVID-19_valle_d'aosta_j10_2020-04-12.md)|[21/4/2020](2020-04-12/COVID-19_valle_d'aosta_j8_2020-04-12.md)|
+|[2020-04-11](2020-04-11/README.md)|[12/4/2020](2020-04-11/COVID-19_valle_d'aosta_j9_2020-04-11.md)|[18/4/2020](2020-04-11/COVID-19_valle_d'aosta_j9_2020-04-11.md)|
 |[2020-04-10](2020-04-10/README.md)|[17/4/2020](2020-04-10/COVID-19_valle_d'aosta_j7_2020-04-10.md)|[23/5/2020](2020-04-10/COVID-19_valle_d'aosta_j7_2020-04-10.md)|
 |[2020-04-09](2020-04-09/README.md)|[12/4/2020](2020-04-09/COVID-19_valle_d'aosta_j8_2020-04-09.md)|[22/4/2020](2020-04-09/COVID-19_valle_d'aosta_j8_2020-04-09.md)|
 |[2020-04-08](2020-04-08/README.md)|[15/4/2020](2020-04-08/COVID-19_valle_d'aosta_j8_2020-04-08.md)|[17/4/2020](2020-04-08/COVID-19_valle_d'aosta_j8_2020-04-08.md)|

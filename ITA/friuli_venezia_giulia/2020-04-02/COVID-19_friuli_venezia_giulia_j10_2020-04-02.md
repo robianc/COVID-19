@@ -28,4 +28,4 @@ Analyses for Friuli Venezia Giulia for previous dates are avalable [here](../../
 
 [Download data as CSV](COVID-19_friuli_venezia_giulia_j10_2020-04-02.csv)
 
-Generated April 10th, 2020 at 17:26:10 UTC+0200 with https://github.com/robianc/COVID-19
+Generated April 12th, 2020 at 16:28:18 UTC+0200 with https://github.com/robianc/COVID-19
