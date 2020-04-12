@@ -11,8 +11,8 @@ Estimates in this page were made on 12/4/2020 with data available until 10/04/20
 ### Peak estimate 
 |j|linear [TAFE]|exponential [TAFE]|power law [TAFE]|details|
 |---|----|-----------|---------|-------|
-|7|6/4/2020 [TAFE=0.0482]|6/4/2020 [TAFE=0.0483]|6/4/2020 [TAFE=0.0501]|[analysis](COVID-19_umbria_j7_2020-04-10.md)|
-|8|5/4/2020 [TAFE=0.1685]|5/4/2020 [TAFE=0.1648]|5/4/2020 [TAFE=0.1418]|[analysis](COVID-19_umbria_j8_2020-04-10.md)|
+|7|-|-|-|[analysis](COVID-19_umbria_j7_2020-04-10.md)|
+|8|-|-|5/4/2020 [TAFE=0.1418]|[analysis](COVID-19_umbria_j8_2020-04-10.md)|
 |9|6/4/2020 [TAFE=0.1196]|5/4/2020 [TAFE=0.1139]|5/4/2020 [TAFE=0.1252]|[analysis](COVID-19_umbria_j9_2020-04-10.md)|
 |10|7/4/2020 [TAFE=0.0979]|7/4/2020 [TAFE=0.1081]|6/4/2020 [TAFE=0.1664]|[analysis](COVID-19_umbria_j10_2020-04-10.md)|
 |11|9/4/2020 [TAFE=0.2949]|8/4/2020 [TAFE=0.1788]|8/4/2020 [TAFE=0.1573]|[analysis](COVID-19_umbria_j11_2020-04-10.md)|
@@ -20,13 +20,13 @@ Estimates in this page were made on 12/4/2020 with data available until 10/04/20
 |13|9/4/2020 [TAFE=2.1301]|10/4/2020 [TAFE=0.5046]|12/4/2020 [TAFE=0.3659]|[analysis](COVID-19_umbria_j13_2020-04-10.md)|
 |14|9/4/2020 [TAFE=1.5172]|11/4/2020 [TAFE=0.4514]|17/4/2020 [TAFE=0.5563]|[analysis](COVID-19_umbria_j14_2020-04-10.md)|
 
-![best peak estimate](COVID-19_umbria_j7_2020-04-10.png)
+![best peak estimate](COVID-19_umbria_j10_2020-04-10.png)
 
-Best estimator is linear with j=7 (TAFE=0.0482)
-Corresponding peak date estimate is 6/4/2020 (ipeak 2)
+Best estimator is linear with j=10 (TAFE=0.0979)
+Corresponding peak date estimate is 7/4/2020 (ipeak 6)
 
 
-Peak date range estimate: 6/4/2020 - 24/4/2020
+Peak date range estimate: 1/4/2020 - 21/4/2020
 
 ### End estimate 
 |j|linear [TAFE/TFE]|exponential [TAFE/TFE]|power law [TAFE/TFE]|details|
@@ -48,4 +48,4 @@ Corresponding end date estimate is 18/4/2020 (izero 17)
 
 End date range estimate: 1/4/2020 - 25/4/2020
 
-Generated April 12th, 2020 at 16:28:18 UTC+0200 with https://github.com/robianc/COVID-19
+Generated April 12th, 2020 at 17:02:01 UTC+0200 with https://github.com/robianc/COVID-19

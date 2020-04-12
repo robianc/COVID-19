@@ -4,16 +4,16 @@ Data source: https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-json
 
 Delta days analysis (j): 7
 
-Analyses for other values of j for 2020-04-10 are avalable [here](../README.md)
+Analyses for other values of j for 2020-04-10 are avalable [here](../2020-04-10/README.md)
 
-Analyses for Umbria for previous dates are avalable [here](../../README.md)
+Analyses for Umbria for previous dates are avalable [here](../README.md)
 
 ## Fitting 
 |fit type|best fit equation|tafe|tfe|ipeak|izero|
 |-------|-----|--------|------|---|---|
-|linear|y = 0.7261 -0.0029x  [TAFE=0.0482]|0.0482|0.0037|2|n/a|
-|exp|y = 0.7229 exp(-0.0034x)  [TAFE=0.0483]|0.0483|0.0018|2|n/a|
-|pow|y = 0.7301 x pow(-0.0192)  [TAFE=0.0501]|0.0501|0.0019|2|n/a|
+|linear|y = 0.7261 -0.0029x  [TAFE=0.0482]|0.0482|0.0037|reached|n/a|
+|exp|y = 0.7229 exp(-0.0034x)  [TAFE=0.0483]|0.0483|0.0018|reached|n/a|
+|pow|y = 0.7301 x pow(-0.0192)  [TAFE=0.0501]|0.0501|0.0019|reached|n/a|
 
 ![Plot](COVID-19_umbria_j7_2020-04-10.png)
 
@@ -30,4 +30,4 @@ Analyses for Umbria for previous dates are avalable [here](../../README.md)
 
 [Download data as CSV](COVID-19_umbria_j7_2020-04-10.csv)
 
-Generated April 12th, 2020 at 16:28:18 UTC+0200 with https://github.com/robianc/COVID-19
+Generated April 12th, 2020 at 17:02:01 UTC+0200 with https://github.com/robianc/COVID-19

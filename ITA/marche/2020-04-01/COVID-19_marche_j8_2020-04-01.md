@@ -4,9 +4,9 @@ Data source: https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-json
 
 Delta days analysis (j): 8
 
-Analyses for other values of j for 2020-04-01 are avalable [here](../README.md)
+Analyses for other values of j for 2020-04-01 are avalable [here](../2020-04-01/README.md)
 
-Analyses for Marche for previous dates are avalable [here](../../README.md)
+Analyses for Marche for previous dates are avalable [here](../README.md)
 
 ## Fitting 
 |fit type|best fit equation|tafe|tfe|ipeak|izero|
@@ -31,4 +31,4 @@ Analyses for Marche for previous dates are avalable [here](../../README.md)
 
 [Download data as CSV](COVID-19_marche_j8_2020-04-01.csv)
 
-Generated April 12th, 2020 at 16:28:18 UTC+0200 with https://github.com/robianc/COVID-19
+Generated April 12th, 2020 at 17:02:01 UTC+0200 with https://github.com/robianc/COVID-19

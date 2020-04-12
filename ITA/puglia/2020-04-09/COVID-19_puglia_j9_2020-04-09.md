@@ -4,9 +4,9 @@ Data source: https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-json
 
 Delta days analysis (j): 9
 
-Analyses for other values of j for 2020-04-09 are avalable [here](../README.md)
+Analyses for other values of j for 2020-04-09 are avalable [here](../2020-04-09/README.md)
 
-Analyses for Puglia for previous dates are avalable [here](../../README.md)
+Analyses for Puglia for previous dates are avalable [here](../README.md)
 
 ## Fitting 
 |fit type|best fit equation|tafe|tfe|ipeak|izero|
@@ -30,4 +30,4 @@ Analyses for Puglia for previous dates are avalable [here](../../README.md)
 
 [Download data as CSV](COVID-19_puglia_j9_2020-04-09.csv)
 
-Generated April 12th, 2020 at 16:28:18 UTC+0200 with https://github.com/robianc/COVID-19
+Generated April 12th, 2020 at 17:02:01 UTC+0200 with https://github.com/robianc/COVID-19

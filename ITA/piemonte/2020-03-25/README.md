@@ -48,4 +48,4 @@ Corresponding end date estimate is 29/3/2020 (izero 11)
 
 End date range estimate: 18/3/2020 - 29/3/2020
 
-Generated April 12th, 2020 at 16:28:18 UTC+0200 with https://github.com/robianc/COVID-19
+Generated April 12th, 2020 at 17:02:01 UTC+0200 with https://github.com/robianc/COVID-19

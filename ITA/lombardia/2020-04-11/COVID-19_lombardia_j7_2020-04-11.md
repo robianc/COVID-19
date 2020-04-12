@@ -4,16 +4,16 @@ Data source: https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-json
 
 Delta days analysis (j): 7
 
-Analyses for other values of j for 2020-04-11 are avalable [here](../README.md)
+Analyses for other values of j for 2020-04-11 are avalable [here](../2020-04-11/README.md)
 
-Analyses for Lombardia for previous dates are avalable [here](../../README.md)
+Analyses for Lombardia for previous dates are avalable [here](../README.md)
 
 ## Fitting 
 |fit type|best fit equation|tafe|tfe|ipeak|izero|
 |-------|-----|--------|------|---|---|
-|linear|y = 0.8602 -0.0325x  [TAFE=0.0394]|0.0394|0.0021|2|27|
-|exp|y = 0.8634 exp(-0.0431x)  [TAFE=0.0362]|0.0362|0.0011|2|n/a|
-|pow|y = 0.8695 x pow(-0.1474)  [TAFE=0.0221]|0.0221|0.0004|2|n/a|
+|linear|y = 0.8602 -0.0325x  [TAFE=0.0394]|0.0394|0.0021|reached|27|
+|exp|y = 0.8634 exp(-0.0431x)  [TAFE=0.0362]|0.0362|0.0011|reached|n/a|
+|pow|y = 0.8695 x pow(-0.1474)  [TAFE=0.0221]|0.0221|0.0004|reached|n/a|
 
 ![Plot](COVID-19_lombardia_j7_2020-04-11.png)
 
@@ -30,4 +30,4 @@ Analyses for Lombardia for previous dates are avalable [here](../../README.md)
 
 [Download data as CSV](COVID-19_lombardia_j7_2020-04-11.csv)
 
-Generated April 12th, 2020 at 16:28:18 UTC+0200 with https://github.com/robianc/COVID-19
+Generated April 12th, 2020 at 17:02:01 UTC+0200 with https://github.com/robianc/COVID-19

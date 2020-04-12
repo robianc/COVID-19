@@ -11,7 +11,7 @@ Estimates in this page were made on 12/4/2020 with data available until 12/04/20
 ### Peak estimate 
 |j|linear [TAFE]|exponential [TAFE]|power law [TAFE]|details|
 |---|----|-----------|---------|-------|
-|7|8/4/2020 [TAFE=0.0943]|8/4/2020 [TAFE=0.0992]|8/4/2020 [TAFE=0.1353]|[analysis](COVID-19_marche_j7_2020-04-12.md)|
+|7|-|-|8/4/2020 [TAFE=0.1353]|[analysis](COVID-19_marche_j7_2020-04-12.md)|
 |8|7/4/2020 [TAFE=0.0567]|7/4/2020 [TAFE=0.0669]|7/4/2020 [TAFE=0.1172]|[analysis](COVID-19_marche_j8_2020-04-12.md)|
 |9|8/4/2020 [TAFE=0.0351]|8/4/2020 [TAFE=0.0523]|7/4/2020 [TAFE=0.0976]|[analysis](COVID-19_marche_j9_2020-04-12.md)|
 |10|9/4/2020 [TAFE=0.0699]|9/4/2020 [TAFE=0.0537]|8/4/2020 [TAFE=0.0540]|[analysis](COVID-19_marche_j10_2020-04-12.md)|
@@ -26,7 +26,7 @@ Best estimator is linear with j=9 (TAFE=0.0351)
 Corresponding peak date estimate is 8/4/2020 (ipeak 4)
 
 
-Peak date range estimate: 6/4/2020 - 21/4/2020
+Peak date range estimate: 4/4/2020 - 21/4/2020
 
 ### End estimate 
 |j|linear [TAFE/TFE]|exponential [TAFE/TFE]|power law [TAFE/TFE]|details|
@@ -48,4 +48,4 @@ Corresponding end date estimate is 22/4/2020 (izero 18)
 
 End date range estimate: 4/4/2020 - 22/4/2020
 
-Generated April 12th, 2020 at 16:28:18 UTC+0200 with https://github.com/robianc/COVID-19
+Generated April 12th, 2020 at 17:02:01 UTC+0200 with https://github.com/robianc/COVID-19

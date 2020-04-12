@@ -16,7 +16,7 @@ use Math::GSL::Statistics qw(gsl_stats_correlation);
 use Chart::Gnuplot;
 use List::Util qw (max);
 
-my $update = 1; # 1 to update with latest data 
+my $update = 0; # 1 to update with latest data 
 my $country  = 'ITA'; # 3 letters ISO
 
 my %data_source = (
@@ -650,12 +650,7 @@ sub save_report {
     my $pow_0 = -1;
     my $pow_1 = -1;
 
-    my $yy_l_prev;
-    my $yy_e_prev;
-    my $yy_p_prev;
-
     my $zero = 1 / $results{$jj}{total}{earlier_data};
-
 
     my @log;
     for my $i1 (1..$nmax) {
@@ -702,16 +697,13 @@ sub save_report {
                 }
             }
 
-            $yy_l_prev = $yy_l;
-            $yy_e_prev = $yy_e;
-            $yy_p_prev = $yy_p;
-
         }
     }
 
     my $ymax = int(0.5 + max(@yy_ratio,@yy_linear,@yy_exp,@yy_pow)) +1;
     my $xmax = 45;
 
+    
     my $ipeak_l = ($linear_1 > 0) ? ceil($linear_1) : "n/a";
     my $izero_l = ($linear_0 > 0) ? ceil($linear_0) : "n/a";
     my $ipeak_e = ($exp_1 > 0) ? ceil($exp_1) : "n/a";
@@ -844,9 +836,9 @@ sub save_report {
     print RD "\nDelta days analysis (j): $jj\n";
 #   print CSV "Delta days analysis: $jj\n";
 
-    print RD "\nAnalyses for other values of j for $filedate are avalable [here](../README.md)\n";
+    print RD "\nAnalyses for other values of j for $filedate are avalable [here](../$filedate/README.md)\n";
 
-    print RD "\nAnalyses for $region for previous dates are avalable [here](../../README.md)\n";
+    print RD "\nAnalyses for $region for previous dates are avalable [here](../README.md)\n";
 
     print RD "\n## Fitting \n";
 #   print CSV "\n*** Fitting ***\n";

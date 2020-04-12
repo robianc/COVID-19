@@ -11,7 +11,7 @@ Estimates in this page were made on 12/4/2020 with data available until 08/04/20
 ### Peak estimate 
 |j|linear [TAFE]|exponential [TAFE]|power law [TAFE]|details|
 |---|----|-----------|---------|-------|
-|7|4/4/2020 [TAFE=0.0761]|4/4/2020 [TAFE=0.0752]|4/4/2020 [TAFE=0.0751]|[analysis](COVID-19_liguria_j7_2020-04-08.md)|
+|7|-|-|-|[analysis](COVID-19_liguria_j7_2020-04-08.md)|
 |8|7/4/2020 [TAFE=0.1007]|7/4/2020 [TAFE=0.1002]|6/4/2020 [TAFE=0.0840]|[analysis](COVID-19_liguria_j8_2020-04-08.md)|
 |9|8/4/2020 [TAFE=0.0930]|8/4/2020 [TAFE=0.0868]|7/4/2020 [TAFE=0.0805]|[analysis](COVID-19_liguria_j9_2020-04-08.md)|
 |10|8/4/2020 [TAFE=0.0850]|8/4/2020 [TAFE=0.0584]|9/4/2020 [TAFE=0.0595]|[analysis](COVID-19_liguria_j10_2020-04-08.md)|
@@ -26,7 +26,7 @@ Best estimator is exp with j=10 (TAFE=0.0584)
 Corresponding peak date estimate is 8/4/2020 (ipeak 9)
 
 
-Peak date range estimate: 1/4/2020 - 25/4/2020
+Peak date range estimate: 30/3/2020 - 25/4/2020
 
 ### End estimate 
 |j|linear [TAFE/TFE]|exponential [TAFE/TFE]|power law [TAFE/TFE]|details|
@@ -48,4 +48,4 @@ Corresponding end date estimate is 14/4/2020 (izero 15)
 
 End date range estimate: 30/3/2020 - 1/5/2020
 
-Generated April 12th, 2020 at 16:28:18 UTC+0200 with https://github.com/robianc/COVID-19
+Generated April 12th, 2020 at 17:02:01 UTC+0200 with https://github.com/robianc/COVID-19

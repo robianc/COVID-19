@@ -12,7 +12,7 @@ Estimates in this page were made on 12/4/2020 with data available until 08/04/20
 |j|linear [TAFE]|exponential [TAFE]|power law [TAFE]|details|
 |---|----|-----------|---------|-------|
 |7|4/4/2020 [TAFE=0.0620]|4/4/2020 [TAFE=0.0578]|4/4/2020 [TAFE=0.0849]|[analysis](COVID-19_toscana_j7_2020-04-08.md)|
-|8|3/4/2020 [TAFE=0.0616]|3/4/2020 [TAFE=0.0614]|4/4/2020 [TAFE=0.0562]|[analysis](COVID-19_toscana_j8_2020-04-08.md)|
+|8|-|-|4/4/2020 [TAFE=0.0562]|[analysis](COVID-19_toscana_j8_2020-04-08.md)|
 |9|7/4/2020 [TAFE=0.0946]|7/4/2020 [TAFE=0.0785]|7/4/2020 [TAFE=0.0401]|[analysis](COVID-19_toscana_j9_2020-04-08.md)|
 |10|8/4/2020 [TAFE=0.2390]|8/4/2020 [TAFE=0.1290]|8/4/2020 [TAFE=0.0371]|[analysis](COVID-19_toscana_j10_2020-04-08.md)|
 |11|7/4/2020 [TAFE=0.4664]|8/4/2020 [TAFE=0.1941]|10/4/2020 [TAFE=0.0616]|[analysis](COVID-19_toscana_j11_2020-04-08.md)|
@@ -26,7 +26,7 @@ Best estimator is pow with j=10 (TAFE=0.0371)
 Corresponding peak date estimate is 8/4/2020 (ipeak 9)
 
 
-Peak date range estimate: 1/4/2020 - 29/4/2020
+Peak date range estimate: 30/3/2020 - 29/4/2020
 
 ### End estimate 
 |j|linear [TAFE/TFE]|exponential [TAFE/TFE]|power law [TAFE/TFE]|details|
@@ -48,4 +48,4 @@ Corresponding end date estimate is 19/4/2020 (izero 19)
 
 End date range estimate: 31/3/2020 - 19/4/2020
 
-Generated April 12th, 2020 at 16:28:18 UTC+0200 with https://github.com/robianc/COVID-19
+Generated April 12th, 2020 at 17:02:01 UTC+0200 with https://github.com/robianc/COVID-19

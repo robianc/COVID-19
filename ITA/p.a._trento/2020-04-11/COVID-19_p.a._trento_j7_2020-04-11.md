@@ -4,16 +4,16 @@ Data source: https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-json
 
 Delta days analysis (j): 7
 
-Analyses for other values of j for 2020-04-11 are avalable [here](../README.md)
+Analyses for other values of j for 2020-04-11 are avalable [here](../2020-04-11/README.md)
 
-Analyses for P.A. Trento for previous dates are avalable [here](../../README.md)
+Analyses for P.A. Trento for previous dates are avalable [here](../README.md)
 
 ## Fitting 
 |fit type|best fit equation|tafe|tfe|ipeak|izero|
 |-------|-----|--------|------|---|---|
-|linear|y = 0.8661 -0.0162x  [TAFE=0.0719]|0.0719|0.0061|2|54|
-|exp|y = 0.8629 exp(-0.0195x)  [TAFE=0.0717]|0.0717|0.0029|2|n/a|
-|pow|y = 0.8795 x pow(-0.0796)  [TAFE=0.0679]|0.0679|0.0025|2|n/a|
+|linear|y = 0.8661 -0.0162x  [TAFE=0.0719]|0.0719|0.0061|reached|54|
+|exp|y = 0.8629 exp(-0.0195x)  [TAFE=0.0717]|0.0717|0.0029|reached|n/a|
+|pow|y = 0.8795 x pow(-0.0796)  [TAFE=0.0679]|0.0679|0.0025|reached|n/a|
 
 ![Plot](COVID-19_p.a._trento_j7_2020-04-11.png)
 
@@ -30,4 +30,4 @@ Analyses for P.A. Trento for previous dates are avalable [here](../../README.md)
 
 [Download data as CSV](COVID-19_p.a._trento_j7_2020-04-11.csv)
 
-Generated April 12th, 2020 at 16:28:18 UTC+0200 with https://github.com/robianc/COVID-19
+Generated April 12th, 2020 at 17:02:01 UTC+0200 with https://github.com/robianc/COVID-19

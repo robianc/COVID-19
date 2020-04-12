@@ -14,7 +14,7 @@ When results are not present, no reliable estimate is available with latest data
 |[Friuli Venezia Giulia](ITA/friuli_venezia_giulia/README.md)|[8/4/2020](ITA/friuli_venezia_giulia/2020-04-12/COVID-19_friuli_venezia_giulia_j8_2020-04-12.md)|[22/4/2020](ITA/friuli_venezia_giulia/2020-04-12/COVID-19_friuli_venezia_giulia_j12_2020-04-12.md)|
 |[Lazio](ITA/lazio/README.md)|[9/4/2020](ITA/lazio/2020-04-12/COVID-19_lazio_j9_2020-04-12.md)|[25/4/2020](ITA/lazio/2020-04-12/COVID-19_lazio_j9_2020-04-12.md)|
 |[Liguria](ITA/liguria/README.md)|[11/4/2020](ITA/liguria/2020-04-12/COVID-19_liguria_j11_2020-04-12.md)|[26/6/2020](ITA/liguria/2020-04-12/COVID-19_liguria_j9_2020-04-12.md)|
-|[Lombardia](ITA/lombardia/README.md)|[7/4/2020](ITA/lombardia/2020-04-12/COVID-19_lombardia_j8_2020-04-12.md)|[28/4/2020](ITA/lombardia/2020-04-12/COVID-19_lombardia_j8_2020-04-12.md)|
+|[Lombardia](ITA/lombardia/README.md)|[6/4/2020](ITA/lombardia/2020-04-12/COVID-19_lombardia_j9_2020-04-12.md)|[28/4/2020](ITA/lombardia/2020-04-12/COVID-19_lombardia_j8_2020-04-12.md)|
 |[Marche](ITA/marche/README.md)|[8/4/2020](ITA/marche/2020-04-12/COVID-19_marche_j9_2020-04-12.md)|[22/4/2020](ITA/marche/2020-04-12/COVID-19_marche_j9_2020-04-12.md)|
 |[P.A. Bolzano](ITA/p.a._bolzano/README.md)|[18/4/2020](ITA/p.a._bolzano/2020-04-12/COVID-19_p.a._bolzano_j13_2020-04-12.md)|[16/4/2020](ITA/p.a._bolzano/2020-04-12/COVID-19_p.a._bolzano_j13_2020-04-12.md)|
 |[P.A. Trento](ITA/p.a._trento/README.md)|[8/4/2020](ITA/p.a._trento/2020-04-12/COVID-19_p.a._trento_j9_2020-04-12.md)|[5/5/2020](ITA/p.a._trento/2020-04-12/COVID-19_p.a._trento_j8_2020-04-12.md)|

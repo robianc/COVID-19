@@ -11,7 +11,7 @@ Estimates in this page were made on 12/4/2020 with data available until 09/04/20
 ### Peak estimate 
 |j|linear [TAFE]|exponential [TAFE]|power law [TAFE]|details|
 |---|----|-----------|---------|-------|
-|7|5/4/2020 [TAFE=0.1656]|5/4/2020 [TAFE=0.1428]|5/4/2020 [TAFE=0.1126]|[analysis](COVID-19_umbria_j7_2020-04-09.md)|
+|7|-|-|5/4/2020 [TAFE=0.1126]|[analysis](COVID-19_umbria_j7_2020-04-09.md)|
 |8|4/4/2020 [TAFE=0.1550]|4/4/2020 [TAFE=0.1518]|4/4/2020 [TAFE=0.1508]|[analysis](COVID-19_umbria_j8_2020-04-09.md)|
 |9|6/4/2020 [TAFE=0.1175]|6/4/2020 [TAFE=0.1087]|5/4/2020 [TAFE=0.1200]|[analysis](COVID-19_umbria_j9_2020-04-09.md)|
 |10|7/4/2020 [TAFE=0.1644]|7/4/2020 [TAFE=0.1401]|6/4/2020 [TAFE=0.1422]|[analysis](COVID-19_umbria_j10_2020-04-09.md)|
@@ -26,7 +26,7 @@ Best estimator is exp with j=9 (TAFE=0.1087)
 Corresponding peak date estimate is 6/4/2020 (ipeak 5)
 
 
-Peak date range estimate: 3/4/2020 - 27/4/2020
+Peak date range estimate: 1/4/2020 - 27/4/2020
 
 ### End estimate 
 |j|linear [TAFE/TFE]|exponential [TAFE/TFE]|power law [TAFE/TFE]|details|
@@ -48,4 +48,4 @@ Corresponding end date estimate is 18/4/2020 (izero 17)
 
 End date range estimate: 1/4/2020 - 22/4/2020
 
-Generated April 12th, 2020 at 16:28:18 UTC+0200 with https://github.com/robianc/COVID-19
+Generated April 12th, 2020 at 17:02:01 UTC+0200 with https://github.com/robianc/COVID-19

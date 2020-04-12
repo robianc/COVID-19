@@ -4,15 +4,15 @@ Data source: https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-json
 
 Delta days analysis (j): 8
 
-Analyses for other values of j for 2020-04-10 are avalable [here](../README.md)
+Analyses for other values of j for 2020-04-10 are avalable [here](../2020-04-10/README.md)
 
-Analyses for Liguria for previous dates are avalable [here](../../README.md)
+Analyses for Liguria for previous dates are avalable [here](../README.md)
 
 ## Fitting 
 |fit type|best fit equation|tafe|tfe|ipeak|izero|
 |-------|-----|--------|------|---|---|
-|linear|y = 0.9909 -0.0041x  [TAFE=0.0706]|0.0706|0.0092|2|n/a|
-|exp|y = 0.9783 exp(-0.0024x)  [TAFE=0.0696]|0.0696|0.0044|2|n/a|
+|linear|y = 0.9909 -0.0041x  [TAFE=0.0706]|0.0706|0.0092|reached|n/a|
+|exp|y = 0.9783 exp(-0.0024x)  [TAFE=0.0696]|0.0696|0.0044|reached|n/a|
 |pow|y = 1.0108 x pow(-0.0327)  [TAFE=0.0709]|0.0709|0.0043|2|n/a|
 
 ![Plot](COVID-19_liguria_j8_2020-04-10.png)
@@ -31,4 +31,4 @@ Analyses for Liguria for previous dates are avalable [here](../../README.md)
 
 [Download data as CSV](COVID-19_liguria_j8_2020-04-10.csv)
 
-Generated April 12th, 2020 at 16:28:18 UTC+0200 with https://github.com/robianc/COVID-19
+Generated April 12th, 2020 at 17:02:01 UTC+0200 with https://github.com/robianc/COVID-19
