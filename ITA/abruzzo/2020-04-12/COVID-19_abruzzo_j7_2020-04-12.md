@@ -11,9 +11,9 @@ Analyses for Abruzzo for previous dates are avalable [here](../README.md)
 ## Fitting 
 |fit type|best fit equation|tafe|tfe|ipeak|izero|
 |-------|-----|--------|------|---|---|
-|linear|y = 0.9834 -0.0437x  [TAFE=0.0938]|0.0938|0.0092|reached|23|
-|exp|y = 0.9845 exp(-0.0518x)  [TAFE=0.0902]|0.0902|0.0043|reached|n/a|
-|pow|y = 0.9991 x pow(-0.1821)  [TAFE=0.0735]|0.0735|0.0032|reached|n/a|
+|linear|y = 0.9834 -0.0437x  [TAFE=0.0938]|0.0938|0.0092|2|23|
+|exp|y = 0.9845 exp(-0.0518x)  [TAFE=0.0902]|0.0902|0.0043|2|n/a|
+|pow|y = 0.9991 x pow(-0.1821)  [TAFE=0.0735]|0.0735|0.0032|2|n/a|
 
 ![Plot](COVID-19_abruzzo_j7_2020-04-12.png)
 
@@ -30,4 +30,4 @@ Analyses for Abruzzo for previous dates are avalable [here](../README.md)
 
 [Download data as CSV](COVID-19_abruzzo_j7_2020-04-12.csv)
 
-Generated April 12th, 2020 at 17:02:01 UTC+0200 with https://github.com/robianc/COVID-19
+Generated April 14th, 2020 at 19:16:04 UTC+0200 with https://github.com/robianc/COVID-19

@@ -11,9 +11,9 @@ Analyses for P.A. Trento for previous dates are avalable [here](../README.md)
 ## Fitting 
 |fit type|best fit equation|tafe|tfe|ipeak|izero|
 |-------|-----|--------|------|---|---|
-|linear|y = 0.9763 -0.0382x  [TAFE=0.0615]|0.0615|0.0044|reached|26|
-|exp|y = 0.9816 exp(-0.0455x)  [TAFE=0.0617]|0.0617|0.0022|reached|n/a|
-|pow|y = 0.9832 x pow(-0.1507)  [TAFE=0.0552]|0.0552|0.0019|reached|n/a|
+|linear|y = 0.9763 -0.0382x  [TAFE=0.0615]|0.0615|0.0044|2|26|
+|exp|y = 0.9816 exp(-0.0455x)  [TAFE=0.0617]|0.0617|0.0022|2|n/a|
+|pow|y = 0.9832 x pow(-0.1507)  [TAFE=0.0552]|0.0552|0.0019|2|n/a|
 
 ![Plot](COVID-19_p.a._trento_j7_2020-04-10.png)
 
@@ -30,4 +30,4 @@ Analyses for P.A. Trento for previous dates are avalable [here](../README.md)
 
 [Download data as CSV](COVID-19_p.a._trento_j7_2020-04-10.csv)
 
-Generated April 12th, 2020 at 17:02:01 UTC+0200 with https://github.com/robianc/COVID-19
+Generated April 14th, 2020 at 19:16:04 UTC+0200 with https://github.com/robianc/COVID-19

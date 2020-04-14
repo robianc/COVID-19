@@ -11,9 +11,9 @@ Analyses for Liguria for previous dates are avalable [here](../README.md)
 ## Fitting 
 |fit type|best fit equation|tafe|tfe|ipeak|izero|
 |-------|-----|--------|------|---|---|
-|linear|y = 0.9800 -0.0044x  [TAFE=0.0761]|0.0761|0.0076|reached|n/a|
-|exp|y = 0.9721 exp(-0.0035x)  [TAFE=0.0752]|0.0752|0.0036|reached|n/a|
-|pow|y = 0.9992 x pow(-0.0340)  [TAFE=0.0751]|0.0751|0.0035|reached|n/a|
+|linear|y = 0.9800 -0.0044x  [TAFE=0.0761]|0.0761|0.0076|2|n/a|
+|exp|y = 0.9721 exp(-0.0035x)  [TAFE=0.0752]|0.0752|0.0036|2|n/a|
+|pow|y = 0.9992 x pow(-0.0340)  [TAFE=0.0751]|0.0751|0.0035|2|n/a|
 
 ![Plot](COVID-19_liguria_j7_2020-04-08.png)
 
@@ -30,4 +30,4 @@ Analyses for Liguria for previous dates are avalable [here](../README.md)
 
 [Download data as CSV](COVID-19_liguria_j7_2020-04-08.csv)
 
-Generated April 12th, 2020 at 17:02:01 UTC+0200 with https://github.com/robianc/COVID-19
+Generated April 14th, 2020 at 19:16:04 UTC+0200 with https://github.com/robianc/COVID-19

@@ -3,7 +3,7 @@
 
 Data source: https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-json/dpc-covid19-ita-regioni.json
 
-Estimates in this page were made on 12/4/2020 with data available until 11/04/2020.
+Estimates in this page were made on 14/4/2020 with data available until 11/04/2020.
 
 
 ## Summary 
@@ -11,8 +11,8 @@ Estimates in this page were made on 12/4/2020 with data available until 11/04/20
 ### Peak estimate 
 |j|linear [TAFE]|exponential [TAFE]|power law [TAFE]|details|
 |---|----|-----------|---------|-------|
-|7|7/4/2020 [TAFE=0.0698]|7/4/2020 [TAFE=0.0678]|-|[analysis](COVID-19_umbria_j7_2020-04-11.md)|
-|8|-|-|-|[analysis](COVID-19_umbria_j8_2020-04-11.md)|
+|7|7/4/2020 [TAFE=0.0698]|7/4/2020 [TAFE=0.0678]|7/4/2020 [TAFE=0.0710]|[analysis](COVID-19_umbria_j7_2020-04-11.md)|
+|8|6/4/2020 [TAFE=0.1475]|6/4/2020 [TAFE=0.1425]|6/4/2020 [TAFE=0.1353]|[analysis](COVID-19_umbria_j8_2020-04-11.md)|
 |9|6/4/2020 [TAFE=0.1398]|5/4/2020 [TAFE=0.1299]|5/4/2020 [TAFE=0.1108]|[analysis](COVID-19_umbria_j9_2020-04-11.md)|
 |10|8/4/2020 [TAFE=0.1275]|7/4/2020 [TAFE=0.1172]|6/4/2020 [TAFE=0.1383]|[analysis](COVID-19_umbria_j10_2020-04-11.md)|
 |11|9/4/2020 [TAFE=0.1516]|8/4/2020 [TAFE=0.1493]|7/4/2020 [TAFE=0.1661]|[analysis](COVID-19_umbria_j11_2020-04-11.md)|
@@ -26,7 +26,7 @@ Best estimator is exp with j=7 (TAFE=0.0678)
 Corresponding peak date estimate is 7/4/2020 (ipeak 2)
 
 
-Peak date range estimate: 5/4/2020 - 21/4/2020
+Peak date range estimate: 7/4/2020 - 21/4/2020
 
 ### End estimate 
 |j|linear [TAFE/TFE]|exponential [TAFE/TFE]|power law [TAFE/TFE]|details|
@@ -48,4 +48,4 @@ Corresponding end date estimate is 18/4/2020 (izero 16)
 
 End date range estimate: 2/4/2020 - 5/5/2020
 
-Generated April 12th, 2020 at 17:02:01 UTC+0200 with https://github.com/robianc/COVID-19
+Generated April 14th, 2020 at 19:16:04 UTC+0200 with https://github.com/robianc/COVID-19

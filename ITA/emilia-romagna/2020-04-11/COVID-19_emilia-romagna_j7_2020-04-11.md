@@ -11,9 +11,9 @@ Analyses for Emilia-Romagna for previous dates are avalable [here](../README.md)
 ## Fitting 
 |fit type|best fit equation|tafe|tfe|ipeak|izero|
 |-------|-----|--------|------|---|---|
-|linear|y = 0.9353 -0.0267x  [TAFE=0.0390]|0.0390|0.0021|reached|36|
-|exp|y = 0.9347 exp(-0.0309x)  [TAFE=0.0376]|0.0376|0.0011|reached|n/a|
-|pow|y = 0.9474 x pow(-0.1126)  [TAFE=0.0244]|0.0244|0.0004|reached|n/a|
+|linear|y = 0.9353 -0.0267x  [TAFE=0.0390]|0.0390|0.0021|2|36|
+|exp|y = 0.9347 exp(-0.0309x)  [TAFE=0.0376]|0.0376|0.0011|2|n/a|
+|pow|y = 0.9474 x pow(-0.1126)  [TAFE=0.0244]|0.0244|0.0004|2|n/a|
 
 ![Plot](COVID-19_emilia-romagna_j7_2020-04-11.png)
 
@@ -30,4 +30,4 @@ Analyses for Emilia-Romagna for previous dates are avalable [here](../README.md)
 
 [Download data as CSV](COVID-19_emilia-romagna_j7_2020-04-11.csv)
 
-Generated April 12th, 2020 at 17:02:01 UTC+0200 with https://github.com/robianc/COVID-19
+Generated April 14th, 2020 at 19:16:04 UTC+0200 with https://github.com/robianc/COVID-19

@@ -11,9 +11,9 @@ Analyses for Lombardia for previous dates are avalable [here](../README.md)
 ## Fitting 
 |fit type|best fit equation|tafe|tfe|ipeak|izero|
 |-------|-----|--------|------|---|---|
-|linear|y = 0.9672 -0.0497x  [TAFE=0.0327]|0.0327|0.0010|reached|20|
-|exp|y = 0.9818 exp(-0.0635x)  [TAFE=0.0275]|0.0275|0.0003|reached|n/a|
-|pow|y = 0.9756 x pow(-0.2032)  [TAFE=0.0209]|0.0209|0.0003|reached|n/a|
+|linear|y = 0.9672 -0.0497x  [TAFE=0.0327]|0.0327|0.0010|2|20|
+|exp|y = 0.9818 exp(-0.0635x)  [TAFE=0.0275]|0.0275|0.0003|2|n/a|
+|pow|y = 0.9756 x pow(-0.2032)  [TAFE=0.0209]|0.0209|0.0003|2|n/a|
 
 ![Plot](COVID-19_lombardia_j7_2020-04-10.png)
 
@@ -30,4 +30,4 @@ Analyses for Lombardia for previous dates are avalable [here](../README.md)
 
 [Download data as CSV](COVID-19_lombardia_j7_2020-04-10.csv)
 
-Generated April 12th, 2020 at 17:02:01 UTC+0200 with https://github.com/robianc/COVID-19
+Generated April 14th, 2020 at 19:16:04 UTC+0200 with https://github.com/robianc/COVID-19

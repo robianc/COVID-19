@@ -11,8 +11,8 @@ Analyses for Toscana for previous dates are avalable [here](../README.md)
 ## Fitting 
 |fit type|best fit equation|tafe|tfe|ipeak|izero|
 |-------|-----|--------|------|---|---|
-|linear|y = 0.9909 -0.0019x  [TAFE=0.0616]|0.0616|0.0061|reached|n/a|
-|exp|y = 0.9891 exp(-0.0022x)  [TAFE=0.0614]|0.0614|0.0031|reached|n/a|
+|linear|y = 0.9909 -0.0019x  [TAFE=0.0616]|0.0616|0.0061|2|n/a|
+|exp|y = 0.9891 exp(-0.0022x)  [TAFE=0.0614]|0.0614|0.0031|2|n/a|
 |pow|y = 1.0246 x pow(-0.0340)  [TAFE=0.0562]|0.0562|0.0029|3|n/a|
 
 ![Plot](COVID-19_toscana_j8_2020-04-08.png)
@@ -31,4 +31,4 @@ Analyses for Toscana for previous dates are avalable [here](../README.md)
 
 [Download data as CSV](COVID-19_toscana_j8_2020-04-08.csv)
 
-Generated April 12th, 2020 at 17:02:01 UTC+0200 with https://github.com/robianc/COVID-19
+Generated April 14th, 2020 at 19:16:04 UTC+0200 with https://github.com/robianc/COVID-19

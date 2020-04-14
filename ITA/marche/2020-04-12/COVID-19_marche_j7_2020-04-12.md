@@ -11,8 +11,8 @@ Analyses for Marche for previous dates are avalable [here](../README.md)
 ## Fitting 
 |fit type|best fit equation|tafe|tfe|ipeak|izero|
 |-------|-----|--------|------|---|---|
-|linear|y = 1.0382 -0.0779x  [TAFE=0.0943]|0.0943|0.0138|reached|14|
-|exp|y = 1.1144 exp(-0.1150x)  [TAFE=0.0992]|0.0992|0.0063|reached|n/a|
+|linear|y = 1.0382 -0.0779x  [TAFE=0.0943]|0.0943|0.0138|2|14|
+|exp|y = 1.1144 exp(-0.1150x)  [TAFE=0.0992]|0.0992|0.0063|2|n/a|
 
 ![Plot](COVID-19_marche_j7_2020-04-12.png)
 
@@ -29,4 +29,4 @@ Analyses for Marche for previous dates are avalable [here](../README.md)
 
 [Download data as CSV](COVID-19_marche_j7_2020-04-12.csv)
 
-Generated April 12th, 2020 at 17:02:01 UTC+0200 with https://github.com/robianc/COVID-19
+Generated April 14th, 2020 at 19:16:04 UTC+0200 with https://github.com/robianc/COVID-19

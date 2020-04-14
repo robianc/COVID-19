@@ -3,7 +3,7 @@
 
 Data source: https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-json/dpc-covid19-ita-regioni.json
 
-Estimates in this page were made on 12/4/2020 with data available until 06/04/2020.
+Estimates in this page were made on 14/4/2020 with data available until 06/04/2020.
 
 
 ## Summary 
@@ -11,7 +11,7 @@ Estimates in this page were made on 12/4/2020 with data available until 06/04/20
 ### Peak estimate 
 |j|linear [TAFE]|exponential [TAFE]|power law [TAFE]|details|
 |---|----|-----------|---------|-------|
-|7|-|-|-|[analysis](COVID-19_toscana_j7_2020-04-06.md)|
+|7|2/4/2020 [TAFE=0.0472]|2/4/2020 [TAFE=0.0463]|2/4/2020 [TAFE=0.0391]|[analysis](COVID-19_toscana_j7_2020-04-06.md)|
 |8|5/4/2020 [TAFE=0.0916]|5/4/2020 [TAFE=0.0811]|4/4/2020 [TAFE=0.0418]|[analysis](COVID-19_toscana_j8_2020-04-06.md)|
 |9|6/4/2020 [TAFE=0.2315]|6/4/2020 [TAFE=0.1302]|6/4/2020 [TAFE=0.0374]|[analysis](COVID-19_toscana_j9_2020-04-06.md)|
 |10|6/4/2020 [TAFE=0.4266]|7/4/2020 [TAFE=0.1751]|8/4/2020 [TAFE=0.0670]|[analysis](COVID-19_toscana_j10_2020-04-06.md)|
@@ -26,7 +26,7 @@ Best estimator is pow with j=9 (TAFE=0.0374)
 Corresponding peak date estimate is 6/4/2020 (ipeak 8)
 
 
-Peak date range estimate: 29/3/2020 - 30/4/2020
+Peak date range estimate: 31/3/2020 - 30/4/2020
 
 ### End estimate 
 |j|linear [TAFE/TFE]|exponential [TAFE/TFE]|power law [TAFE/TFE]|details|
@@ -48,4 +48,4 @@ Corresponding end date estimate is 5/7/2020 (izero 96)
 
 End date range estimate: 31/3/2020 - 5/7/2020
 
-Generated April 12th, 2020 at 17:02:01 UTC+0200 with https://github.com/robianc/COVID-19
+Generated April 14th, 2020 at 19:16:04 UTC+0200 with https://github.com/robianc/COVID-19

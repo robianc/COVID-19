@@ -31,4 +31,4 @@ Analyses for Valle d'Aosta for previous dates are avalable [here](../README.md)
 
 [Download data as CSV](COVID-19_valle_d'aosta_j13_2020-04-05.csv)
 
-Generated April 12th, 2020 at 17:02:01 UTC+0200 with https://github.com/robianc/COVID-19
+Generated April 14th, 2020 at 19:16:04 UTC+0200 with https://github.com/robianc/COVID-19

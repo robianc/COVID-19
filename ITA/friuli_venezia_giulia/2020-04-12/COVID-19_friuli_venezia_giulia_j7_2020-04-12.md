@@ -11,8 +11,8 @@ Analyses for Friuli Venezia Giulia for previous dates are avalable [here](../REA
 ## Fitting 
 |fit type|best fit equation|tafe|tfe|ipeak|izero|
 |-------|-----|--------|------|---|---|
-|linear|y = 1.0517 -0.0564x  [TAFE=0.0697]|0.0697|0.0056|reached|19|
-|exp|y = 1.0670 exp(-0.0670x)  [TAFE=0.0672]|0.0672|0.0027|reached|n/a|
+|linear|y = 1.0517 -0.0564x  [TAFE=0.0697]|0.0697|0.0056|2|19|
+|exp|y = 1.0670 exp(-0.0670x)  [TAFE=0.0672]|0.0672|0.0027|2|n/a|
 |pow|y = 1.0510 x pow(-0.2076)  [TAFE=0.0720]|0.0720|0.0030|2|n/a|
 
 ![Plot](COVID-19_friuli_venezia_giulia_j7_2020-04-12.png)
@@ -30,4 +30,4 @@ Analyses for Friuli Venezia Giulia for previous dates are avalable [here](../REA
 
 [Download data as CSV](COVID-19_friuli_venezia_giulia_j7_2020-04-12.csv)
 
-Generated April 12th, 2020 at 17:02:01 UTC+0200 with https://github.com/robianc/COVID-19
+Generated April 14th, 2020 at 19:16:04 UTC+0200 with https://github.com/robianc/COVID-19
