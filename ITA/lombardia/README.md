@@ -2,6 +2,8 @@
 
 |Date of estimate|Peak date best estimate|End date best estimate|
 |----|----|----|
+|[2020-04-16](2020-04-16/README.md)|[12/4/2020](2020-04-16/COVID-19_lombardia_j7_2020-04-16.md)|[7/5/2020](2020-04-16/COVID-19_lombardia_j10_2020-04-16.md)|
+|[2020-04-15](2020-04-15/README.md)|[11/4/2020](2020-04-15/COVID-19_lombardia_j7_2020-04-15.md)|[30/4/2020](2020-04-15/COVID-19_lombardia_j10_2020-04-15.md)|
 |[2020-04-14](2020-04-14/README.md)|[10/4/2020](2020-04-14/COVID-19_lombardia_j7_2020-04-14.md)|[3/5/2020](2020-04-14/COVID-19_lombardia_j9_2020-04-14.md)|
 |[2020-04-13](2020-04-13/README.md)|[7/4/2020](2020-04-13/COVID-19_lombardia_j9_2020-04-13.md)|[26/4/2020](2020-04-13/COVID-19_lombardia_j9_2020-04-13.md)|
 |[2020-04-12](2020-04-12/README.md)|[7/4/2020](2020-04-12/COVID-19_lombardia_j8_2020-04-12.md)|[28/4/2020](2020-04-12/COVID-19_lombardia_j8_2020-04-12.md)|

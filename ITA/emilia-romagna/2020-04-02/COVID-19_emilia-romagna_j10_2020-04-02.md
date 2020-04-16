@@ -33,4 +33,4 @@ Analyses for Emilia-Romagna for previous dates are avalable [here](../README.md)
 
 [Download data as CSV](COVID-19_emilia-romagna_j10_2020-04-02.csv)
 
-Generated April 14th, 2020 at 19:16:04 UTC+0200 with https://github.com/robianc/COVID-19
+Generated April 16th, 2020 at 20:09:19 UTC+0200 with https://github.com/robianc/COVID-19

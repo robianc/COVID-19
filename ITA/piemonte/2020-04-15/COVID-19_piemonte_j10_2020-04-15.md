@@ -1,0 +1,36 @@
+# Piemonte
+
+Data source: https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-json/dpc-covid19-ita-regioni.json
+
+Delta days analysis (j): 10
+
+Analyses for other values of j for 2020-04-15 are avalable [here](../2020-04-15/README.md)
+
+Analyses for Piemonte for previous dates are avalable [here](../README.md)
+
+## Fitting 
+|fit type|best fit equation|tafe|tfe|ipeak|izero|
+|-------|-----|--------|------|---|---|
+|linear|y = 1.5146 -0.0439x  [TAFE=0.0568]|0.0568|0.0047|12|35|
+|exp|y = 1.5156 exp(-0.0330x)  [TAFE=0.0523]|0.0523|0.0022|13|n/a|
+|pow|y = 1.5869 x pow(-0.1505)  [TAFE=0.0399]|0.0399|0.0014|22|n/a|
+
+![Plot](COVID-19_piemonte_j10_2020-04-15.png)
+
+## Data
+|Date|Daily deaths|Cumulated deaths|Deaths in the last 10 days|Deaths in the 10 days before|ratio|
+|----|----------|-----------|-------|--------------------|-----|
+|2020-04-15|88|2015|847|719|1.1780|
+|2020-04-14|101|1927|799|679|1.1767|
+|2020-04-13|97|1826|783|669|1.1704|
+|2020-04-12|96|1729|746|668|1.1168|
+|2020-04-11|101|1633|747|603|1.2388|
+|2020-04-10|78|1532|678|616|1.1006|
+|2020-04-09|76|1454|705|540|1.3056|
+|2020-04-08|59|1378|694|509|1.3635|
+|2020-04-07|68|1319|702|463|1.5162|
+|2020-04-06|83|1251|682|436|1.5642|
+
+[Download data as CSV](COVID-19_piemonte_j10_2020-04-15.csv)
+
+Generated April 16th, 2020 at 20:09:19 UTC+0200 with https://github.com/robianc/COVID-19
