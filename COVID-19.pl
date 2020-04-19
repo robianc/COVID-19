@@ -55,7 +55,7 @@ my %dates_to_skip = (
 my @start_date = (2020,3,25);
 
 # End date of analysis
-my @end_date = (2020,4,16);#Today($gmt); # Change, if desired
+my @end_date = (2020,4,19);#Today($gmt); # Change, if desired
 #
 # Set range of days to be included in averages
 my $dmin = 7;

@@ -1,0 +1,40 @@
+# Friuli Venezia Giulia
+
+Data source: https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-json/dpc-covid19-ita-regioni.json
+
+Delta days analysis (j): 14
+
+Analyses for other values of j for 2020-04-17 are avalable [here](../2020-04-17/README.md)
+
+Analyses for Friuli Venezia Giulia for previous dates are avalable [here](../README.md)
+
+## Fitting 
+|fit type|best fit equation|tafe|tfe|ipeak|izero|
+|-------|-----|--------|------|---|---|
+|linear|y = 2.3224 -0.1140x  [TAFE=0.0824]|0.0824|0.0012|12|21|
+|exp|y = 2.4855 exp(-0.0770x)  [TAFE=0.0472]|0.0472|0.0021|12|n/a|
+|pow|y = 2.8969 x pow(-0.4063)  [TAFE=0.0725]|0.0725|0.0040|14|n/a|
+
+![Plot](COVID-19_friuli_venezia_giulia_j14_2020-04-17.png)
+
+## Data
+|Date|Daily deaths|Cumulated deaths|Deaths in the last 14 days|Deaths in the 14 days before|ratio|
+|----|----------|-----------|-------|--------------------|-----|
+|2020-04-17|3|220|84|98|0.8571|
+|2020-04-16|5|217|88|93|0.9462|
+|2020-04-15|6|212|90|91|0.9890|
+|2020-04-14|4|206|93|83|1.1205|
+|2020-04-13|7|202|95|85|1.1176|
+|2020-04-12|10|195|97|84|1.1548|
+|2020-04-11|6|185|98|74|1.3243|
+|2020-04-10|8|179|103|66|1.5606|
+|2020-04-09|2|171|99|64|1.5469|
+|2020-04-08|5|169|99|64|1.5469|
+|2020-04-07|6|164|100|61|1.6393|
+|2020-04-06|4|158|104|53|1.9623|
+|2020-04-05|9|154|107|46|2.3261|
+|2020-04-04|9|145|103|42|2.4524|
+
+[Download data as CSV](COVID-19_friuli_venezia_giulia_j14_2020-04-17.csv)
+
+Generated April 19th, 2020 at 18:42:39 UTC+0200 with https://github.com/robianc/COVID-19

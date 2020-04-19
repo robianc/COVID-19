@@ -2,6 +2,9 @@
 
 |Date of estimate|Peak date best estimate|End date best estimate|
 |----|----|----|
+|[2020-04-19](2020-04-19/README.md)|[13/4/2020](2020-04-19/COVID-19_emilia-romagna_j9_2020-04-19.md)|[14/6/2020](2020-04-19/COVID-19_emilia-romagna_j12_2020-04-19.md)|
+|[2020-04-18](2020-04-18/README.md)|[9/4/2020](2020-04-18/COVID-19_emilia-romagna_j12_2020-04-18.md)|[24/5/2020](2020-04-18/COVID-19_emilia-romagna_j12_2020-04-18.md)|
+|[2020-04-17](2020-04-17/README.md)|[9/4/2020](2020-04-17/COVID-19_emilia-romagna_j12_2020-04-17.md)|[14/6/2020](2020-04-17/COVID-19_emilia-romagna_j11_2020-04-17.md)|
 |[2020-04-16](2020-04-16/README.md)|[8/4/2020](2020-04-16/COVID-19_emilia-romagna_j11_2020-04-16.md)|[21/5/2020](2020-04-16/COVID-19_emilia-romagna_j11_2020-04-16.md)|
 |[2020-04-15](2020-04-15/README.md)|[8/4/2020](2020-04-15/COVID-19_emilia-romagna_j11_2020-04-15.md)|[5/6/2020](2020-04-15/COVID-19_emilia-romagna_j10_2020-04-15.md)|
 |[2020-04-14](2020-04-14/README.md)|[8/4/2020](2020-04-14/COVID-19_emilia-romagna_j11_2020-04-14.md)|[14/5/2020](2020-04-14/COVID-19_emilia-romagna_j10_2020-04-14.md)|

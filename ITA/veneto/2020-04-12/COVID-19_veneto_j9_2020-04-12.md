@@ -32,4 +32,4 @@ Analyses for Veneto for previous dates are avalable [here](../README.md)
 
 [Download data as CSV](COVID-19_veneto_j9_2020-04-12.csv)
 
-Generated April 16th, 2020 at 20:09:19 UTC+0200 with https://github.com/robianc/COVID-19
+Generated April 19th, 2020 at 18:42:39 UTC+0200 with https://github.com/robianc/COVID-19
